@@ -1,0 +1,12 @@
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\bin\Debug\AutoRestart.exe.config
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\bin\Debug\AutoRestart.exe.manifest
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\bin\Debug\AutoRestart.application
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\bin\Debug\AutoRestart.exe
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\bin\Debug\AutoRestart.pdb
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.Form1.resources
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.Properties.Resources.resources
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.csproj.GenerateResource.Cache
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.exe.manifest
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.application
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.exe
+C:\Users\Mike.Murray\Documents\Visual Studio 2010\Projects\WinApp\AutoRestart\AutoRestart\obj\x86\Debug\AutoRestart.pdb
