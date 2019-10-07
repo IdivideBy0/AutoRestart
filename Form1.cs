@@ -208,7 +208,7 @@ namespace AutoRestart
         private void SaveSettings()
         {
 
-            //Settings.Default.BaudRate = int.Parse(cmbBaudRate.Text);
+            
             Settings.Default.RunAutomatically = chkAutoStart.Checked;
             Settings.Default.Save();
 
